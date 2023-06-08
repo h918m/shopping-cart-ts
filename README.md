@@ -14,10 +14,10 @@ This is a shopping cart app built with React, TypeScript, and Bootstrap. It allo
 
 ## Technologies Used
 
-- React: A JavaScript library for building user interfaces.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-- Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
-- Vite: A fast and minimalist build tool for modern web applications.
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Vite](https://vitejs.dev/)
 
 
 ## Getting Started
